@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activación Google Ad Grants | Fundación Pymergia</title>
+    <style>
+        /* Tipografía de respaldo y estilos base */
+        body { font-family: 'Montserrat', Helvetica, Arial, sans-serif; margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #F8FAFC; color: #11263B; }
+        table { border-collapse: collapse !important; }
+        img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: block; }
+        .btn:hover { background-color: #5d2291 !important; }
+    </style>
+</head>
+<body style="background-color: #F8FAFC; padding: 20px 0;">
+    <center>
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border-radius: 16px; overflow: hidden; border: 1px solid #e2e8f0; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+            
+            <tr>
+                <td align="center" style="padding: 40px 20px; background: linear-gradient(135deg, #FFFFFF 0%, #F3EBF9 100%);">
+                    <img src="https://storage.googleapis.com/msgsndr/TflE3Je6BY5vwRAtoeGL/media/69659edacd68a438afe2b3dc.png" alt="Fundación Pymergia" width="180" style="display: block;">
+                </td>
+            </tr>
+
+            <tr>
+                <td style="padding: 0 40px 30px 40px; text-align: center;">
+                    <h1 style="color: #732BB1; font-size: 28px; font-weight: 800; margin-bottom: 10px; line-height: 1.2;">Potencia tu impacto con <br><span style="color: #04B1A4;">Google Ad Grants</span></h1>
+                    <p style="font-size: 16px; line-height: 1.6; color: #4A5568;">Recibe hasta <strong>USD 10,000 mensuales</strong> en publicidad gratuita para tu ONG. Nosotros nos encargamos de la gestión técnica mientras tú te enfocas en tu misión social.</p>
+                </td>
+            </tr>
+
+            <tr>
+                <td height="4" style="background: linear-gradient(to right, #732BB1, #04B1A4, #9CDC41);"></td>
+            </tr>
+
+            <tr>
+                <td style="padding: 40px;">
+                    <h2 style="font-size: 18px; font-weight: 700; color: #11263B; margin-bottom: 20px;">¿Qué incluye nuestra gestión?</h2>
+                    
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="40" valign="top" style="padding-bottom: 15px;"><span style="color: #732BB1; font-size: 20px;">✔</span></td>
+                            <td style="padding-bottom: 15px; font-size: 14px; color: #4A5568;"><strong>Configuración Inicial:</strong> Inscripción técnica y vinculación con Google Analytics.</td>
+                        </tr>
+                        <tr>
+                            <td width="40" valign="top" style="padding-bottom: 15px;"><span style="color: #04B1A4;">✔</span></td>
+                            <td style="padding-bottom: 15px; font-size: 14px; color: #4A5568;"><strong>Estructuración de Campañas:</strong> Creación de anuncios estratégicos y segmentación geográfica precisa.</td>
+                        </tr>
+                        <tr>
+                            <td width="40" valign="top" style="padding-bottom: 15px;"><span style="color: #9CDC41;">✔</span></td>
+                            <td style="padding-bottom: 15px; font-size: 14px; color: #4A5568;"><strong>Seguimiento de Conversiones:</strong> Medición real del impacto en su sitio web y captación de donantes.</td>
+                        </tr>
+                    </table>
+
+                    <div style="background-color: #F3EBF9; border-radius: 12px; padding: 25px; margin-top: 30px; border-left: 6px solid #732BB1;">
+                        <h3 style="margin: 0 0 15px 0; font-size: 16px; color: #732BB1;">Requisitos para iniciar la activación:</h3>
+                        <p style="margin: 0; font-size: 13px; color: #11263B; line-height: 1.5;">
+                            Para proceder con la solicitud del beneficio, agradecemos nos adjunte respondiendo a este correo:
+                            <br><br>
+                            • Copia del Certificado de Existencia y Representación Legal (Vigente).<br>
+                            • Copia del RUT actualizado.<br>
+                            • Copia de la cédula del Representante Legal.
+                        </p>
+                    </div>
+                </td>
+            </tr>
+
+            <tr>
+                <td align="center" style="padding: 0 40px 40px 40px;">
+                    <p style="font-size: 14px; color: #4A5568; margin-bottom: 20px;">Inversión del servicio: <strong>360 USD + IVA</strong></p>
+                    <a href="https://portalpagos.davivienda.com/#/comercio/6589/MYPIMES.CO" target="_blank" style="background-color: #732BB1; color: #ffffff; padding: 16px 32px; text-decoration: none; border-radius: 50px; font-weight: bold; font-size: 16px; display: inline-block;">Pagar Activación y Gestión</a>
+                </td>
+            </tr>
+
+            <tr>
+                <td style="background-color: #11263B; color: #ffffff; padding: 40px; text-align: center;">
+                    <img src="https://storage.googleapis.com/msgsndr/TflE3Je6BY5vwRAtoeGL/media/69659edacd68a438afe2b3dc.png" alt="Pymergia" width="120" style="margin-bottom: 20px; filter: brightness(0) invert(1);">
+                    <p style="font-size: 12px; color: #CBD5E0; line-height: 1.5;">
+                        Fundación Pymergia - Transformación Digital con Impacto Social<br>
+                        Bogotá, Colombia | <a href="mailto:contacto@pymergia.org" style="color: #04B1A4; text-decoration: none;">contacto@pymergia.org</a>
+                    </p>
+                    <p style="font-size: 10px; color: #718096; margin-top: 20px;">
+                        © 2026 Fundación Pymergia. Todos los derechos reservados.
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
